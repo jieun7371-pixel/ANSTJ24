@@ -1,0 +1,6 @@
+{
+  "name": "문서24 공문 일괄 발송 관리",
+  "description": "전국 초·중·고교 및 기관 문서24 공문 일괄 발송 업무 관리, 엑셀 명단 업로드, 일일 50개 자동 배치 및 진행 현황 관리 웹 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
